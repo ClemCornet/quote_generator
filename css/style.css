@@ -1,0 +1,47 @@
+body {
+    font-family: "Open sans", sans-serif;
+}
+
+.container {
+    background-color: #bbdefb;
+    height : auto;
+}
+
+.title {
+    font-family: "Open sans";
+    font-size : 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: "Open sans";
+    font-size : 30px;
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+.citation {
+    background-color : #64b5f6;
+    margin-bottom : 30px;
+    border-radius: 20px;
+    padding : 20px;
+}
+
+.btncustom {
+    margin-left : 70px;
+}
+
+#banner {
+    margin-top : 40px;
+    margin-left : 60px;
+}
+
+span {
+    font-weight: bold;
+}
+
+
